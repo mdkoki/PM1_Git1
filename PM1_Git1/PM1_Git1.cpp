@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << " visualStudio\n";
+    std::cout << "コンフリクト解決";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
