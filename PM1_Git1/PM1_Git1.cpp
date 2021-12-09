@@ -3,9 +3,9 @@
 
 #include <iostream>
 
-int main()
+int main
 {
-    std::cout << "Hello World! visualStudio\n";
+    std::cout <<Hello World!"
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
